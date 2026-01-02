@@ -1,56 +1,48 @@
 [
   {
-    "name": "Tachiyomi: Example Extension",
-    "pkg": "eu.kanade.tachiyomi.extension.en.example",
-    "apk": "tachiyomi-en.example-v1.4.1.apk",
+    "name": "Tachiyomi: Comix",
+    "pkg": "eu.kanade.tachiyomi.extension.en.comix",
+    "apk": "tachiyomi-en.comix-v1.4.41.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "icon": "icon/eu.kanade.tachiyomi.extension.en.comix.png",
+    "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
     "sources": [
       {
-        "name": "Example Extension",
+        "name": "Comix",
+        "id": "65294073",
         "lang": "en",
-        "id": "6843991126969533230",
-        "baseUrl": "https://example.com",
-        "versionId": 1
+        "baseUrl": ""
       }
-    ]
+    ],
+    "size": 94313,
+    "sha256": "48fc7f696cea8c731f5271888be474c563036a982a372588aa044fbe7954f01f"
   },
   {
     "name": "Tachiyomi: Like Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemanga",
-    "apk": "tachiyomi-en.likemanga-v1.4.34.apk",
+    "apk": "tachiyomi-en.likemanga-v1.4.36.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "icon": "icon/eu.kanade.tachiyomi.extension.en.likemanga.png",
+    "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
     "sources": [
       {
         "name": "Like Manga",
+        "id": "1524118164",
         "lang": "en",
-        "id": "411833355147795520",
-        "baseUrl": "https://likemanga.ink",
-        "versionId": 1
+        "baseUrl": ""
       }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Comix",
-    "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.39.apk",
-    "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Comix",
-        "lang": "en",
-        "id": "7537715367149829912",
-        "baseUrl": "https://comix.to",
-        "versionId": 1
-      }
-    ]
+    ],
+    "size": 40958,
+    "sha256": "479ee1a4e71bbeac907018c5ec8aec344d64788fea0f5951eb5bb4939c6f87ac"
   }
 ]
