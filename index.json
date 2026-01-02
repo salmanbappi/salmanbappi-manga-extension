@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Comix",
     "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.91.apk",
+    "apk": "tachiyomi-en.comix-v1.4.101.apk",
     "lang": "en",
-    "code": 91,
-    "version": "1.4.91",
+    "code": 101,
+    "version": "1.4.101",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14,21 +14,20 @@
     "sources": [
       {
         "name": "Comix",
-        "id": "65294073",
+        "id": "7537715367149829912",
         "lang": "en",
-        "baseUrl": ""
+        "baseUrl": "https://comix.to"
       }
     ],
-    "size": 94318,
-    "sha256": "7f8958084a2afd1430dcaa1991dbaa710057cbf1c55b615c33d2d731247dd1c4"
+    "sha256": "d5323d42b3ee60d86b1fa53d38a1375985167d4a3983a32f2d2cbfb37401b524"
   },
   {
     "name": "Tachiyomi: Like Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemanga",
-    "apk": "tachiyomi-en.likemanga-v1.4.86.apk",
+    "apk": "tachiyomi-en.likemanga-v1.4.96.apk",
     "lang": "en",
-    "code": 86,
-    "version": "1.4.86",
+    "code": 96,
+    "version": "1.4.96",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -37,12 +36,11 @@
     "sources": [
       {
         "name": "Like Manga",
-        "id": "1524118164",
+        "id": "411833355147795520",
         "lang": "en",
-        "baseUrl": ""
+        "baseUrl": "https://likemanga.ink"
       }
     ],
-    "size": 40957,
-    "sha256": "24d923af8f5e0d60f3c221639fcb2b56a492115ef0652f067b1bbd79cc80b060"
+    "sha256": "4a12e6ee407749a57638615ef956b2655331527cb43631bc7a036d8946354217"
   }
 ]
