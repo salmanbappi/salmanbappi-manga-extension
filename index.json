@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.23.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.24.apk",
     "lang": "all",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19,15 +19,15 @@
         "baseUrl": "https://mangafire.to"
       }
     ],
-    "sha256": "440f6aef9dcb00b1ac35ae5e98020ffed462f4203f940238592c70929fd04064"
+    "sha256": "78a5068cb399bc550b1db16ce67d9864ce9742eb4846a776f163b0d6aeb36a85"
   },
   {
     "name": "Tachiyomi: Comix",
     "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.117.apk",
+    "apk": "tachiyomi-en.comix-v1.4.118.apk",
     "lang": "en",
-    "code": 117,
-    "version": "1.4.117",
+    "code": 118,
+    "version": "1.4.118",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -41,15 +41,15 @@
         "baseUrl": "https://comix.to"
       }
     ],
-    "sha256": "eeb7c08f43b95f4669dae88e7a4617a2a81ec215b029b1c3b74627cba2ec8501"
+    "sha256": "84d6ddfa1994a631a17a75b3fb62d2306d36028103ca4de3064cd12979a29d58"
   },
   {
     "name": "Tachiyomi: Like Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemanga",
-    "apk": "tachiyomi-en.likemanga-v1.4.113.apk",
+    "apk": "tachiyomi-en.likemanga-v1.4.114.apk",
     "lang": "en",
-    "code": 113,
-    "version": "1.4.113",
+    "code": 114,
+    "version": "1.4.114",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -63,15 +63,15 @@
         "baseUrl": "https://likemanga.ink"
       }
     ],
-    "sha256": "0c8c4c78d7f9a6fa1f0db21527ed49e4bbf0d5f5ce18815d3c289d017f70ed54"
+    "sha256": "96aa73726ff0ed37663cb1a8216e4636e7d0510004d32dac36c0d8cfab70b870"
   },
   {
     "name": "Tachiyomi: Like Manga In",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemangain",
-    "apk": "tachiyomi-en.likemangain-v1.4.4.apk",
+    "apk": "tachiyomi-en.likemangain-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -85,6 +85,6 @@
         "baseUrl": "https://likemanga.in"
       }
     ],
-    "sha256": "b7957fc4ac0fff7d71a4b7caa05e7298e8210e21da8ac872aded50924ee7a176"
+    "sha256": "e9eebe9d47da98b67b5fb9930e4293babfb7d184d93a38a37777e2208cbb7d1f"
   }
 ]
