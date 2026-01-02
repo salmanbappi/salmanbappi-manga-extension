@@ -10,7 +10,7 @@
     "hasReadme": 0,
     "hasChangelog": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.en.comix.png",
-    "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
+    "sig": "ebb6a27ef0629efc1b6f6b3f62d2210c3526e588e670064899fb9b9be4ebea8b",
     "sources": [
       {
         "name": "Comix",
@@ -33,7 +33,7 @@
     "hasReadme": 0,
     "hasChangelog": 0,
     "icon": "icon/eu.kanade.tachiyomi.extension.en.likemanga.png",
-    "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
+    "sig": "ebb6a27ef0629efc1b6f6b3f62d2210c3526e588e670064899fb9b9be4ebea8b",
     "sources": [
       {
         "name": "Like Manga",
