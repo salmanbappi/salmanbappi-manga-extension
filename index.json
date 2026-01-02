@@ -68,10 +68,10 @@
   {
     "name": "Tachiyomi: Like Manga In",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemangain",
-    "apk": "tachiyomi-en.likemangain-v1.4.18.apk",
+    "apk": "tachiyomi-en.likemangain-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -85,6 +85,6 @@
         "baseUrl": "https://likemanga.in"
       }
     ],
-    "sha256": "3d476c61cf032958197615df299439f583a0996e02f57c54b9f9a3bac7092105"
+    "sha256": "d79e05d107c89b9ce0aa3d1a1bf090a17ee328b9aadb617c3aebf3f3c736699d"
   }
 ]
