@@ -1,59 +1,48 @@
 [
   {
-    "name": "Tachiyomi: Example Extension",
-    "pkg": "eu.kanade.tachiyomi.extension.en.example",
-    "apk": "tachiyomi-en.example-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
-    "sources": [
-      {
-        "name": "Example Extension",
-        "lang": "en",
-        "id": "6843991126969533230",
-        "baseUrl": "https://example.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Comix",
     "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.46.apk",
+    "apk": "tachiyomi-en.comix-v1.4.61.apk",
     "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
-    "nsfw": 0,
+    "code": 61,
+    "version": "1.4.61",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "icon": "icon/eu.kanade.tachiyomi.extension.en.comix.png",
     "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
     "sources": [
       {
         "name": "Comix",
+        "id": "65294073",
         "lang": "en",
-        "id": "7537715367149829912",
-        "baseUrl": "https://comix.to",
-        "versionId": 1
+        "baseUrl": ""
       }
-    ]
+    ],
+    "size": 94319,
+    "sha256": "c571e5764264a43f614b42e6d71c043a59d9ccb6023c613433bdeec043a7d2e5"
   },
   {
     "name": "Tachiyomi: Like Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemanga",
-    "apk": "tachiyomi-en.likemanga-v1.4.41.apk",
+    "apk": "tachiyomi-en.likemanga-v1.4.56.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "icon": "icon/eu.kanade.tachiyomi.extension.en.likemanga.png",
     "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
     "sources": [
       {
         "name": "Like Manga",
+        "id": "1524118164",
         "lang": "en",
-        "id": "411833355147795520",
-        "baseUrl": "https://likemanga.ink",
-        "versionId": 1
+        "baseUrl": ""
       }
-    ]
+    ],
+    "size": 40956,
+    "sha256": "660e81c7506583ae0581db0cd651a9cce8dfc625da0fc93faead47547a8d37f9"
   }
 ]
