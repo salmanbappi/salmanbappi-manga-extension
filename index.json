@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.7.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14,11 +14,11 @@
     "sources": [
       {
         "name": "MangaFire",
-        "id": "1695568874",
+        "id": "1695572115",
         "lang": "all",
-        "baseUrl": ""
+        "baseUrl": "https://mangafire.to"
       }
     ],
-    "sha256": "14c8da51b166160637e2c2184ee1bef1bdab2aa8d3db79808147c6f79b0efc11"
+    "sha256": "4ccddb3cbfe87073880fead6f7a35a8ebed1708781f5a46be0171bf253ec3c5f"
   }
 ]
