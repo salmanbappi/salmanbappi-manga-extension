@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.20.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.21.apk",
     "lang": "all",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19,15 +19,15 @@
         "baseUrl": "https://mangafire.to"
       }
     ],
-    "sha256": "707548558ed0bf175fa8a986a08a363f061ab85b6cbd51923b0abbf7080f8b98"
+    "sha256": "4ffb39b9fee5fa6b8f2b4a34c4d9fbc8cba13de119c255085d10879dc61d9b93"
   },
   {
     "name": "Tachiyomi: Comix",
     "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.114.apk",
+    "apk": "tachiyomi-en.comix-v1.4.115.apk",
     "lang": "en",
-    "code": 114,
-    "version": "1.4.114",
+    "code": 115,
+    "version": "1.4.115",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -41,15 +41,15 @@
         "baseUrl": "https://comix.to"
       }
     ],
-    "sha256": "51bd1f62fd671f204ac052727d0258abe479bebfecf80f5009bd14c9df876819"
+    "sha256": "4c2afd44417d7f24a6c43fbf58c86e8c4857d8eeaabd8e8244f85949e5a3f266"
   },
   {
     "name": "Tachiyomi: Like Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemanga",
-    "apk": "tachiyomi-en.likemanga-v1.4.110.apk",
+    "apk": "tachiyomi-en.likemanga-v1.4.111.apk",
     "lang": "en",
-    "code": 110,
-    "version": "1.4.110",
+    "code": 111,
+    "version": "1.4.111",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -63,6 +63,28 @@
         "baseUrl": "https://likemanga.ink"
       }
     ],
-    "sha256": "58523a5b9efba148feb084b39291e2056aefb3bbad65681b18842eef62f650ea"
+    "sha256": "c2d8b01e07ec49e90d89337eb94c311213d81cb1106781479afad5ee72b4d568"
+  },
+  {
+    "name": "Tachiyomi: Like Manga In",
+    "pkg": "eu.kanade.tachiyomi.extension.en.likemangain",
+    "apk": "tachiyomi-en.likemangain-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "icon": "icon/eu.kanade.tachiyomi.extension.en.likemangain.png",
+    "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
+    "sources": [
+      {
+        "name": "Like Manga In",
+        "id": "611833355147795521",
+        "lang": "en",
+        "baseUrl": "https://likemanga.in"
+      }
+    ],
+    "sha256": "b557c2145d18d2db14e2565ac1f19459391dccfae561584efd826d6d5cdd25ba"
   }
 ]
