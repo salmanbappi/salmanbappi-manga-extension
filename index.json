@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.13.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.14.apk",
     "lang": "all",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19,7 +19,7 @@
         "baseUrl": "https://mangafire.to"
       }
     ],
-    "sha256": "346e03c6e91f4b18eb2804846c0a4bb83905857593061d8ba4c8e674c4dbf559"
+    "sha256": "8a794ce711062c503f6c9dbe8702d79a0eaaee87e9241a4f7ad39e088ab29572"
   },
   {
     "name": "Tachiyomi: Comix",
