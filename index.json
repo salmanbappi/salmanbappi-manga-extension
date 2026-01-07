@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.58.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.59.apk",
     "lang": "all",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19,15 +19,15 @@
         "baseUrl": "https://mangafire.to"
       }
     ],
-    "sha256": "2adad58e652cd2ad495ab60a11a63663f97f4f5544fedf13ae553d6705f48a0a"
+    "sha256": "acbc33bf4bb957cc0af857554bd20d1ad3a4c301743039017c5e58b4dd216afc"
   },
   {
     "name": "Tachiyomi: Comix",
     "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.152.apk",
+    "apk": "tachiyomi-en.comix-v1.4.153.apk",
     "lang": "en",
-    "code": 152,
-    "version": "1.4.152",
+    "code": 153,
+    "version": "1.4.153",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -41,15 +41,15 @@
         "baseUrl": "https://comix.to"
       }
     ],
-    "sha256": "0e70e61bf65bb5d92f3baa019b2e28a0a11d4330f3d1ff6e0e58f05131bb091c"
+    "sha256": "6fc286e6108d79d5acb1c6227b00ba6fa5db33f5b836bef7a3f2d410749727cf"
   },
   {
     "name": "Tachiyomi: Elf Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elftoon",
-    "apk": "tachiyomi-en.elftoon-v1.4.9.apk",
+    "apk": "tachiyomi-en.elftoon-v1.4.16.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -63,15 +63,15 @@
         "baseUrl": "https://elftoon.xyz"
       }
     ],
-    "sha256": "fbb521bef99511c3365851824a5c5dcdd61b1eda52413b371c29c0e4e2f69843"
+    "sha256": "4fddda84cb602a1ff5626a8986230179699af95bd589615c62b859d78af111f8"
   },
   {
     "name": "Tachiyomi: Like Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemanga",
-    "apk": "tachiyomi-en.likemanga-v1.4.148.apk",
+    "apk": "tachiyomi-en.likemanga-v1.4.149.apk",
     "lang": "en",
-    "code": 148,
-    "version": "1.4.148",
+    "code": 149,
+    "version": "1.4.149",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -85,15 +85,15 @@
         "baseUrl": "https://likemanga.ink"
       }
     ],
-    "sha256": "506f16ddc98949c8a728413c9326a399d1883fd309a554983770e6941a468b6a"
+    "sha256": "ca7b48196a188d8bf74fb0782625cba32aaf0639cb86cb21b8dbd950a6430171"
   },
   {
     "name": "Tachiyomi: Like Manga In",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemangain",
-    "apk": "tachiyomi-en.likemangain-v1.4.42.apk",
+    "apk": "tachiyomi-en.likemangain-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -107,6 +107,6 @@
         "baseUrl": "https://likemanga.in"
       }
     ],
-    "sha256": "9c9cf572ee4017553522db53021554c8db67c893688dd957bcde89a917d99277"
+    "sha256": "31c5a9b05894980b45af0fddfe395c359044bb62b912ee5c5c6e1baca8815265"
   }
 ]
