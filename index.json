@@ -1,11 +1,11 @@
 [
   {
-    "name": "Tachiyomi: ExHentai / E-Hentai",
+    "name": "Tachiyomi: ExHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "tachiyomi-all.ehentai-v1.4.36.apk",
+    "apk": "tachiyomi-all.ehentai-v1.4.39.apk",
     "lang": "all",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13,109 +13,13 @@
     "sig": "212199045691887b32eb2397f167f4b7d53a73131119975df9914595bc95880a",
     "sources": [
       {
-        "name": "ExHentai / E-Hentai",
-        "id": "2405484588340146654",
-        "lang": "ja",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "7466678883999823342",
-        "lang": "en",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "8438952268746742839",
-        "lang": "zh",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "7813332780296941373",
-        "lang": "nl",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "6002104265884978431",
-        "lang": "fr",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "5404510354502017580",
-        "lang": "de",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "4410406488625419235",
-        "lang": "hu",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "275516021650211862",
-        "lang": "it",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "9096364610265768291",
-        "lang": "ko",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "7773505003689137664",
-        "lang": "pl",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "7151438547982231541",
-        "lang": "pt-BR",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "389295949616874348",
-        "lang": "ru",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "2150659694306174448",
-        "lang": "es",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "7160974784169571503",
-        "lang": "th",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "6011802645214983939",
-        "lang": "vi",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "4786584375381166984",
-        "lang": "none",
-        "baseUrl": "https://e-hentai.org"
-      },
-      {
-        "name": "ExHentai / E-Hentai",
-        "id": "1063750325057219793",
-        "lang": "other",
+        "name": "ExHentai",
+        "id": "6225928719850211219",
+        "lang": "all",
         "baseUrl": "https://e-hentai.org"
       }
     ],
-    "sha256": "6baa6bc6cf4d471c25f5ea453234a2ecfce6fc2abe474c766ac551cc9e08f019"
+    "sha256": "19ab457519f11e08288bcbff1a0b89188076832b6073658cfae8bda128fa15c6"
   },
   {
     "name": "Tachiyomi: MangaFire",
