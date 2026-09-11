@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: ExHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "tachiyomi-all.ehentai-v1.4.53.apk",
+    "apk": "tachiyomi-all.ehentai-v1.4.54.apk",
     "lang": "all",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19,7 +19,7 @@
         "baseUrl": "https://e-hentai.org"
       }
     ],
-    "sha256": "cc9148ef5a52e95fd64db6a7c1c18199abecf836448df89aabbb920491727f40"
+    "sha256": "59eec158b54d65e3e659fd23baa78877ff3b259979e79273c77e696c92384330"
   },
   {
     "name": "Tachiyomi: MangaFire",
